@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StreamTerminalOperations" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-24T04:43:46" hostname="AR0C02DT4W0ML85" time="0.024">
+  <properties/>
+  <testcase name="consumedStream()" classname="StreamTerminalOperations" time="0.024"/>
+  <system-out><![CDATA[YA ESTABA CERRADOOO!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

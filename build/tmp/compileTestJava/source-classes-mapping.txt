@@ -1,0 +1,9 @@
+StreamCreation.java
+ StreamCreation
+StreamIntermediateOperations.java
+ StreamIntermediateOperations
+ StreamIntermediateOperations$1
+StreamTerminalOperations.java
+ StreamTerminalOperations
+ StreamTerminalOperations$1
+ StreamTerminalOperations$2
